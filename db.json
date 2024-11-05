@@ -1,0 +1,40 @@
+{
+  "fruits": [
+    {
+      "id": "3",
+      "name": "apple",
+      "color": "blue",
+      "weight": "4.2grams"
+    },
+    {
+      "id": "4",
+      "name": "watermelon",
+      "color": "light",
+      "weight": "1.0kg"
+    },
+    {
+      "id": 1730811901464,
+      "name": "hh",
+      "color": "nn",
+      "weight": "9kg"
+    },
+    {
+      "id": 1730811903776,
+      "name": "hh",
+      "color": "nn",
+      "weight": "9kg"
+    },
+    {
+      "id": 1730812302935,
+      "name": "mango",
+      "color": "orange",
+      "weight": "8.0kg"
+    },
+    {
+      "id": 1730812305428,
+      "name": "mango",
+      "color": "orange",
+      "weight": "8.0kg"
+    }
+  ]
+}
