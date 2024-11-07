@@ -3,7 +3,7 @@
     {
       "id": "3",
       "name": "apple",
-      "color": "blue",
+      "color": "VLUE",
       "weight": "4.2grams"
     },
     {
@@ -35,6 +35,12 @@
       "name": "mango",
       "color": "orange",
       "weight": "8.0kg"
+    },
+    {
+      "id": 1730979310337,
+      "name": "ukwaju",
+      "color": "maroon",
+      "weight": "7.0kg"
     }
   ]
 }
